@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(npm ci)",
+      "Bash(npm run build)",
+      "Bash(npm run dev)",
+      "Bash(npm run dev -- --host 127.0.0.1)",
+      "Bash(npm run preview)",
+      "Bash(npm run preview -- --host 127.0.0.1)",
+      "Bash(npx vite)",
+      "Bash(npx vite --host 127.0.0.1)",
+      "Bash(npx vite build)",
+      "Bash(npx vite preview)",
+      "Bash(npx vite preview --host 127.0.0.1)"
+    ]
+  }
+}
